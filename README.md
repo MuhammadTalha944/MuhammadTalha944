@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MuhammadTalha944
 - 👀 I’m interested in coding and make innovative Web Apps.
-- 🌱 I’m currently learning JS frameowkrs like Vue js, Node JS and React js.
-- 💞️ I’m looking to collaborate on working for Bitcoin development.
+- 🌱 I’m currently working as a Software Engineer.
+- 🌱 Skills on which I work are PHP, Laravel, CodeIgniter, HTML, CSS, JQuery, VueJs, MySQL, AWS S3, API development and Integration.
+- 💞️ I’m looking to collaborate on working for large products
 - 📫 How to reach me : Email - talhaishtiaq944@gmail.com, Skype - talhaishtiaq944_1
 
 <!---
